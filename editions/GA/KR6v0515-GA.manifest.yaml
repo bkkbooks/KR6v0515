@@ -19,7 +19,7 @@ metadata:
     short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0515_000-GA.yaml, hash: 'sha256:e7ca2c07b879ab8d34b1e1f19f8699c96f340c765b0fef88c9048c3d3c513a92'}
+  - {seq: 0, filename: KR6v0515_000-GA.yaml, hash: 'sha256:158efe57ac792f837633e26b8e99ad1d1dfcd532b2e0ac458ef03a73df32bc18'}
   - {seq: 1, filename: KR6v0515_001-GA.yaml, hash: 'sha256:1d8b6e27494dee5420bca69a420edf5feb893ec2ca21aa9650b202ec1137194b'}
   - {seq: 2, filename: KR6v0515_002-GA.yaml, hash: 'sha256:8233ef9a2115e31d52b40fa9c68b2d2560c1b2e7e28dae45aed143ddcab3594b'}
   - {seq: 3, filename: KR6v0515_003-GA.yaml, hash: 'sha256:c5b1f39a24bd029725dd7b129c4d5675d25a95ea4fd6b21297ad5045435b7059'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 11, filename: KR6v0515_011-GA.yaml, hash: 'sha256:6633be058cd2108fded6075dfd7118d3185c1dd12fe78c65747aae0b2e687770'}
   - {seq: 12, filename: KR6v0515_012-GA.yaml, hash: 'sha256:50152f3a011fd3b2ac9fe76e626624471695973caeb1e542a232337645ae10a7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0515_000-GA.markers.yaml, hash: 'sha256:73a77145cb76b37ec6878ce3d1a702692f4b834ab283ee3b45446904c7046e57'}
+  - {seq: 0, role: markers, filename: assets/KR6v0515_000-GA.markers.yaml, hash: 'sha256:f65e02270de442275fbe5794bad71eef3afad1f65b1bae132fab4abb4c8997db'}
   - {seq: 1, role: markers, filename: assets/KR6v0515_001-GA.markers.yaml, hash: 'sha256:3be1d737703079588357d615216512434e73635b7d75b2cea20b3df6bf453b9b'}
   - {seq: 2, role: markers, filename: assets/KR6v0515_002-GA.markers.yaml, hash: 'sha256:b17bdc94667b77904cff6cb8655dbd4d8bec62220eb4cc84d5104dee1dc3387c'}
   - {seq: 3, role: markers, filename: assets/KR6v0515_003-GA.markers.yaml, hash: 'sha256:add58d17d21c76483156d7d8aea18213ae676e47b7274a939c9b18db68593c68'}
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0515_GA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 版本說明
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0515_GA_000-mulu-2
     span:
-    - front
+    - body
     - 557
     - 557
   label: 卷首
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0515_GA_000-mulu-3
     span:
-    - front
+    - body
     - 557
     - 557
   label: 御製詩
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0515_GA_000-mulu-4
     span:
-    - front
+    - body
     - 1223
     - 1223
   label: 圖說
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0515_GA_000-mulu-5
     span:
-    - front
+    - body
     - 1453
     - 1453
   label: 徵引書目
@@ -101,7 +101,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0515_GA_000-mulu-6
     span:
-    - front
+    - body
     - 2487
     - 2487
   label: 凡例
@@ -111,7 +111,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0515_GA_000-mulu-7
     span:
-    - front
+    - body
     - 3069
     - 3069
   label: 卷目
@@ -6217,4 +6217,4 @@ table_of_contents:
   label: 跋
   type: mulu
   level: 1
-hash: sha256:114c807db7581f91e2ea4f42562a1604e0679ddf751a5fe9de06e67a5a79a2ec
+hash: sha256:de7d456de9fd38e3e2871ba1f223849d0931633eec4d1ae554acc317d8097f34
